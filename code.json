@@ -1,0 +1,79 @@
+{
+  "name": "demo-repo",
+  "version": "",
+  "description": "Repository for demonstrating SHARE IT Act tooling functionality",
+  "longDescription": "This repository serves as a demonstration environment for the tooling associated with the SHARE IT Act. It is designed to showcase the functionality and operational capabilities of the necessary systems for data sharing and interoperability. Users can explore how the tools function within a controlled environment to understand the intended workflow and integration points. The project adheres to strict government security and open source policies, including providing a Software Bill of Materials (SBOM) in compliance with Executive Order 14028. This project is dedicated to the public domain under the CC0 1.0 license, allowing for broad use and contribution.",
+  "status": "",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": ""
+      }
+    ],
+    "usageType": [
+      "openSource"
+    ],
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/GSA-SHARE-IT/demo-repo",
+  "repositoryHost": "",
+  "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 2245,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "project-management",
+    "application-development",
+    "it-development",
+    "it-security",
+    "workflow-management"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [],
+  "maintenance": "",
+  "contractNumber": [],
+  "SBOM": "https://github.com/GSA-SHARE-IT/demo-repo/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-10-15T21:35:20Z",
+    "lastModified": "2026-10-15T21:43:16Z",
+    "metadataLastUpdated": "2026-10-15T21:46:33.301Z"
+  },
+  "tags": [
+    "SHARE IT Act",
+    "tooling",
+    "demonstration",
+    "GitHub",
+    "open-source"
+  ],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "feedbackMechanism": "https://github.com/GSA-SHARE-IT/demo-repo/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 3
+}
