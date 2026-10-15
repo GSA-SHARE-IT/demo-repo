@@ -1,0 +1,39 @@
+{
+  "name": "{{ cookiecutter.name }}",
+  "description": "{{ cookiecutter.description }}",
+  "status": "{{ cookiecutter.status }}",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "{{ cookiecutter.license }}",
+        "URL": "{{cookiecutter.license_URL}}"
+      }
+    ],
+    "usageType": "{{ cookiecutter.usage_type }}",
+    "exemptionText": ""
+  },
+  "organization": "U.S. Department of Health and Human Services",
+  "repositoryURL": "https://github.com/{{ cookiecutter.project_org }}/{{ cookiecutter.name }}",
+  "reuseFrequency": {
+    "forks": "{{ cookiecutter.forks }}",
+    "clones": "{{ cookiecutter.clones }}"
+  },
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "repositoryVisibility": "{{ cookiecutter.repository_visibility}}",
+  "vcs": "{{ cookiecutter.vcs }}",
+  "languages":  "{{ cookiecutter.languages }}" ,
+  "maintenance": "{{ cookiecutter.maintenance }}",
+  "contractNumber": "{{ cookiecutter.contract_number }}",
+  "SBOM": "{{ cookiecutter.sbom }}",
+  "tags":  "{{ cookiecutter.tags }}" ,
+  "contact": {
+    "name": "{{ cookiecutter.contact_name }}",
+    "email": "{{ cookiecutter.contact_email }}"
+  },
+  "feedbackMechanism": "{{ cookiecutter.feedback_mechanism }}",
+  "AIUseCaseID": "{{ cookiecutter.ai_use_case_id }}",
+  "maturityModelTier": 1
+}
